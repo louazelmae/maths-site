@@ -1,4 +1,4 @@
-# site de mathématiques
+# maths-site
 <html>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
